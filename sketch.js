@@ -73,7 +73,7 @@ function draw() {
 
 	var pix6 = capture.get(aa, bb);
   fill(pix6, 128);
-  rect(aa, bb, pointillize, pointillize);
+  rect(aa, bb, pointillize, pointilliz);
 
 	var pix7 = capture.get(kk, ll);
   fill(pix7, 128);
