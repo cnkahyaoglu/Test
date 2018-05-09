@@ -10,7 +10,7 @@ function setup() {
 
 	capture = createCapture(VIDEO);
 	capture.size(windowWidth, windowHeight);
-  smallPoint = 50;
+  smallPoint = 10;
   largePoint = 100;
   imageMode(CENTER);
   noStroke();
