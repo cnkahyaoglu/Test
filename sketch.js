@@ -14,8 +14,8 @@ function preload() {
 function setup() {
   createCanvas(windowWidth/1.5, windowHeight/1.5);
 
-
-    song.play();
+    song.loop();
+    
 
   frameRate(200);
 
